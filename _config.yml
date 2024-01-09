@@ -20,51 +20,54 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Jing Gao
+title:                 Starter Kit
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  An Entrepreneurial Computer Science student, Class of 2025 in McKelvey School of Engineering at Washington University in St. Louis .
+  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
+  with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               An Entrepreneurial Computer Science student
+tagline:               Change `tagline` in `_config.yml`
 
 # A list of keywords for your blog
-keywords:              [Computer Science, Entrepreneurship, Innovator]
+keywords:              []
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/bw.png
+logo:                  /assets/img/logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                Jing Gao
-  email:               gao.jing@wustl.edu
+  name:                <firstname> <lastname>
+  email:               <mail@domain.tld>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
+  - title:             Example
+    url:               /example/
+  - title:             Documentation
+    url:               /docs/
   - title:             About
     url:               /about/
-  - title:             Education
-    url:               /education/
-  - title:             Research 
-    url:               /research/
-  - title:             Project
-    url:               /project/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
+  - title:             LICENSE
+    url:               /LICENSE/
+  - title:             NOTICE
+    url:               /NOTICE/
   - title:             CHANGELOG
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2024. All rights reserved.
+copyright:             © 2021. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -78,7 +81,7 @@ paginate_path:         /:num/
 # ---------------------------------------------------------------------------------------
 
 theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+# remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
@@ -93,7 +96,7 @@ accent_color:          rgb(79,177,186)
 # Defaults to `accent_color`.
 theme_color:           rgb(25,55,71)
 
-# The string encoding which fonts to fetch from Google Fon3ts.
+# The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
 google_fonts:          Roboto+Slab:700|Noto+Sans:400,400i,700,700i
 
@@ -126,11 +129,11 @@ defaults:
     values:
       sitemap:         false
 
-  # - scope:
-  #     path:            licenses/
-  #   values:
-  #     layout:          plain
-  #     sitemap:         false
+  - scope:
+      path:            licenses/
+    values:
+      layout:          plain
+      sitemap:         false
 
   # # You can use the following to enable comments on all posts.
   # - scope:
@@ -312,7 +315,7 @@ exclude:
   - Gemfile.lock
 include:
   - .well-known
-  # - LICENSE.md
+  - LICENSE.md
 
 
 # Plugins
@@ -356,11 +359,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-social:
-  name:                Jing Gao
-  links:
-    - https://twitter.com/<username>
-    - https://github.com/LZDXN
+# social:
+#   name:                <firstname> <lastname>
+#   links:
+#     - https://twitter.com/<username>
+#     - https://github.com/<username>
 
 
 # Plugin Configs
