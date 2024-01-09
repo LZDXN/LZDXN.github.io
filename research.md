@@ -1,8 +1,6 @@
 ---
 layout: about
 description: >
-  About Jing Gao
+  Jing Gao's Research
 hide_description: true
 ---
-
-# About Me

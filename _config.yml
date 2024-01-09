@@ -20,54 +20,51 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 Jing Gao
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  An Entrepreneurial Computer Science student, Class of 2025 in McKelvey School of Engineering at Washington University in St. Louis .
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               An Entrepreneurial Computer Science student
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [Computer Science, Entrepreneurship, Innovator]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/img/w.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Jing Gao
+  email:               gao.jing@wustl.edu
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
   - title:             About
     url:               /about/
+  - title:             Education
+    url:               /education/
+  - title:             Research 
+    url:               /research/
+  - title:             Project
+    url:               /project/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
   - title:             CHANGELOG
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021. All rights reserved.
+copyright:             © 2024. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -96,7 +93,7 @@ accent_color:          rgb(79,177,186)
 # Defaults to `accent_color`.
 theme_color:           rgb(25,55,71)
 
-# The string encoding which fonts to fetch from Google Fonts.
+# The string encoding which fonts to fetch from Google Fon3ts.
 # See: <https://hydejack.com/docs/configuration/>
 google_fonts:          Roboto+Slab:700|Noto+Sans:400,400i,700,700i
 
@@ -129,11 +126,11 @@ defaults:
     values:
       sitemap:         false
 
-  - scope:
-      path:            licenses/
-    values:
-      layout:          plain
-      sitemap:         false
+  # - scope:
+  #     path:            licenses/
+  #   values:
+  #     layout:          plain
+  #     sitemap:         false
 
   # # You can use the following to enable comments on all posts.
   # - scope:
@@ -261,8 +258,8 @@ hydejack:
   # seeing an old date. 
   hide_dates:          false
 
-  # TODO
-  hide_last_modified:  false
+  # # TODO
+  # hide_last_modified:  false
 
   # Note that dark mode only works in the PRO version of Hydejack.
   dark_mode:
@@ -279,11 +276,11 @@ hydejack:
   # ----------------
   # This is an _experimental_ feature.
   # Only use if you know what Service Workers are and how they can impact your site!
-  offline:
-    enabled:           false
-    cache_version:     13
-    precache_assets:
-      - /assets/img/swipe.svg
+  # offline:
+  #   enabled:           false
+  #   cache_version:     13
+  #   precache_assets:
+  #     - /assets/img/swipe.svg
 
 
 # Collections
@@ -315,7 +312,7 @@ exclude:
   - Gemfile.lock
 include:
   - .well-known
-  - LICENSE.md
+  # - LICENSE.md
 
 
 # Plugins
@@ -359,11 +356,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+social:
+  name:                Jing Gao
+  links:
+    # - https://twitter.com/<username>
+    - https://github.com/LZDXN
 
 
 # Plugin Configs
@@ -420,4 +417,4 @@ jekyll_compose:
         path: /assets/img/sidebar-bg.jpg
       links:
         - title: Project Link
-          url: https://example.com
+          # url: https://example.com

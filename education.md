@@ -1,8 +1,6 @@
 ---
 layout: about
 description: >
-  About Jing Gao
+  Jing Gao's Education
 hide_description: true
 ---
-
-# About Me
