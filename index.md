@@ -1,93 +1,73 @@
----
-title: About Alembic
-feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
-feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
----
+# Jing Gao
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+**Email:** [gao.jing@wustl.edu](mailto:gao.jing@wustl.edu)
+**LinkedIn:** [linkedin.com/in/jing-gao-lzdxn/](https://linkedin.com/in//)
+**GitHub:** [github.com/LZDXN](https://github.com/)
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+# Education
 
-## Features
+## **Washington University in St. Louis**
+*B.S. in Computer Science, double major in Entrepreneurship, minor in Mathematics*
+Aug. 2023 - Expected 2025
+St. Louis, MO
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+# Relevant Coursework
 
-## Examples
+- OO Programming
+- Program in C
+- Discrete Math
+- Data Structures & Algorithms
+- Machine Learning
+- Adversarial AI
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+# Publication
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+- Blair, J., & Gao, J., & Kishimoto, K. (2023). *Perceptions of Artificial Intelligence in College: A Case Study of Purdue University Liberal Arts Professors.* Purdue 2023 Spring Undergraduate Research Conference. [2023 Abstract Booklet (PDF)](https://www.purdue.edu/undergrad-research/conferences/spring/archive/documents/AbstractBooklet_Spring2023.pdf#page=455)
+- Guo, J., & Gao, J. (2022). *Comparison of Different Machine Learning Algorithms on Cell Classification with scRNA-seq after Principal Component Analysis.* 2022 7th International Conference on Intelligent Computing and Signal Processing (ICSP). [DOI](https://doi.org/10.1109/icsp54964.2022.9778439)
 
-## Installation
+# Experience
 
-### Quick setup
+## Washington University in St. Louis
 
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
+- **Research Assistant**
+Oct. 2023 - PRESENT
+St. Louis, MO
+- Utilized Julia programming language for developing and implementing data processing pipelines.
+- Installed and maintained jupyter server application with encrypted token access.
 
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
+## Research Institute of Tsinghua, Pearl River Delta
 
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
-- ⚗️🚀 Stackbit starter kit  
-  [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
+- **Research Assistant & Project Manager Assistant**
+Jun. 2022 - Aug. 2022
+Guangzhou, Guangdong (China)
+- Constructed & evaluated machine models in severe environment.
+- Sampled & analyzed data, then Specified & optimized mathematical models.
 
-### As a Jekyll theme
+# Research & Projects
 
-1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: alembic-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+- **AI Jailbreaking**
+*Large Language Model, Jailbreak*
+Dec. 2023
+- Conducted comprehensive research into the mechanisms and limitations of large language models.
+- Developed a systematic approach to test and document various prompt-based techniques.
 
-### As a GitHub Pages remote theme
+- **Saga: AI-Powered Writing Assistant**
+*ReactJS, TypeScript, Large Language Model*
+Apr. 2023
+- Developed an AI-powered assistant to solve pain points in the writing process.
+- Implemented unique ID system and name completion function for characters.
 
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/alembic@main` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+# Technical Skills
 
-### As a Boilerplate / Fork
+- **Programming Languages:** Python, Julia, Java, C, HTML/CSS, JavaScript, Shell
+- **Developer Tools:** VS Code, Git, Latex, Markdown, Google Cloud Platform, Amazon Web Service
+- **Technologies/Frameworks:** Linux, GitHub, ReactJS, VueJS, WordPress
+- **Speak Languages:** Chinese (Native), English (Proficient), Esperanto (Intermediate), Japanese (Beginner)
 
-_(deprecated, not recommended)_
+# Leadership / Extracurricular
 
-1. [Fork the repo](https://github.com/daviddarnes/alembic#fork-destination-box)
-2. Replace the `Gemfile` with one stating all the gems used in your project
-3. Delete the following unnecessary files/folders: `.github`, `LICENSE`, `screenshot.png`, `CNAME` and `alembic-jekyll-theme.gemspec`
-4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-## Customising
-
-When using Alembic as a theme means you can take advantage of the file overriding method. This allows you to overwrite any file in this theme with your own custom file, by matching the file name and path. The most common example of this would be if you want to add your own styles or change the core style settings.
-
-To add your own styles copy the [`styles.scss`](https://github.com/daviddarnes/alembic/blob/master/assets/styles.scss) into your own project with the same file path (`assets/styles.scss`). From there you can add your own styles, you can even optionally ignore the theme styles by removing the `@import "alembic";` line.
-
-If you're looking to set your own colours and fonts you can overwrite them by matching the variable names from the [`_settings.scss`](https://github.com/daviddarnes/alembic/blob/master/_sass/_settings.scss) file in your own `styles.scss`, make sure to state them before the `@import "alembic";` line so they take effect. The settings are a mixture of custom variables and settings from [Sassline](https://medium.com/@jakegiltsoff/sassline-v2-0-e424b2881e7e) - follow the link to find out how to configure the typographic settings.
+- **IEEE -- Purdue Aerial Robotic Team (PART)**
+Aug. 2022 - May 2023
+Purdue University
+- Trained and applied an object detection model to accurately identify ground targets for competitive scenarios.
+- Optimized the model's performance and deployed it on edge computing devices.
