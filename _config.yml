@@ -19,7 +19,7 @@ exclude:
 - CNAME
 - Gemfile
 - Gemfile.lock
-- LZDXN-jekyll-theme.gemspec
+- alembic-jekyll-theme.gemspec
 - .jekyll-cache
 
 # 2. Installed Gems
@@ -36,7 +36,7 @@ plugins:
 
 
 # 3. Gem settings
-theme: LZDXN-jekyll-theme
+theme: alembic-jekyll-theme
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 # jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
