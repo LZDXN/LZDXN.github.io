@@ -1,8 +1,8 @@
 ---
 title: LZDXN - Jing Gao
 # feature_text: |
-#   ## LZDXN - Jing Gao
-#   An undergraduate student at Washington University in St. Louis, majoring in Computer Science and Entrepreneurship.
+# ## LZDXN - Jing Gao
+# An undergraduate student at Washington University in St. Louis, majoring in Computer Science and Entrepreneurship.
 # feature_image: "https://sites.wustl.edu/olinmc/files/2023/10/flyer_image_429596_linkedin_bannerswithcentennial_823145622_823145622.jpg.jpeg"
 # excerpt: ""
 ---
@@ -12,9 +12,9 @@ title: LZDXN - Jing Gao
 {% include button.html text="Email" icon="email" link="mailto:gao.jing@wustl.edu" color="#71c4ef" %} {% include button.html text="GitHub" icon="github" link="https://github.com/LZDXN" color="#24292F" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://linkedin.com/in/jing-gao-lzdxn/" color="#0A66C2" %}
 
 ## Education
-**Washington University in St. Louis**  
-*B.S. in Computer Science, double major in Entrepreneurship, minor in Mathematics*  
-Aug. 2023 - Expected 2025  
+**Washington University in St. Louis**
+*B.S. in Computer Science, double major in Entrepreneurship, minor in Mathematics*
+Aug. 2023 - Expected 2025
 St. Louis, MO
 
 ## Technical Skills
@@ -29,14 +29,14 @@ St. Louis, MO
 
 ## Experience
 ### Washington University in St. Louis
-**Research Assistant**  
-Oct. 2023 - PRESENT, St. Louis, MO  
+**Research Assistant**
+Oct. 2023 - PRESENT, St. Louis, MO
 - Utilized Julia programming language for developing and implementing data processing pipelines.
 - Installed and maintained jupyter server application with encrypted token access.
 
 ### Research Institute of Tsinghua, Pearl River Delta
-**Research Assistant & Project Manager Assistant**  
-Jun. 2022 - Aug. 2022, Guangzhou, Guangdong (China)  
+**Research Assistant & Project Manager Assistant**
+Jun. 2022 - Aug. 2022, Guangzhou, Guangdong (China)
 - Constructed & evaluated machine models in severe environment.
 - Sampled & analyzed data, then Specified & optimized mathematical models.
 
@@ -44,14 +44,14 @@ Jun. 2022 - Aug. 2022, Guangzhou, Guangdong (China)
 - Guo, J., & Gao, J. (2022). *Comparison of Different Machine Learning Algorithms on Cell Classification with scRNA-seq after Principal Component Analysis*. 2022 7th International Conference on Intelligent Computing and Signal Processing (ICSP). [DOI](https://doi.org/10.1109/icsp54964.2022.9778439)
 
 ## Research & Projects
-- **AI Jailbreaking**  
-*Large Language Model, Jailbreak*  
-Dec. 2023  
+- **AI Jailbreaking**
+*Large Language Model, Jailbreak*
+Dec. 2023
 Conducted comprehensive research into the mechanisms and limitations of large language models.
 
-- **Saga: AI-Powered Writing Assistant**  
-*ReactJS, TypeScript, Large Language Model*  
-Apr. 2023  
+- **Saga: AI-Powered Writing Assistant**
+*ReactJS, TypeScript, Large Language Model*
+Apr. 2023
 Developed an AI-powered assistant to solve pain points in the writing process.
 
 ## Honors & Prizes
