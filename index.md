@@ -1,8 +1,18 @@
-# Jing Gao
+---
+title: LZDXN
+feature_text: |
+  ## LZDXN - Jing Gao
+  An undergraduate student at Washington University in St. Louis, majoring in Computer Science and Entrepreneurship.
+feature_image: "https://sites.wustl.edu/olinmc/files/2023/10/flyer_image_429596_linkedin_bannerswithcentennial_823145622_823145622.jpg.jpeg"
+# excerpt: ""
+---
 
-**Email:** [gao.jing@wustl.edu](mailto:gao.jing@wustl.edu)
-**LinkedIn:** [linkedin.com/in/jing-gao-lzdxn/](https://linkedin.com/in//)
-**GitHub:** [github.com/LZDXN](https://github.com/)
+
+![Profile Photo](/assets/img/profile_photo.jpg)
+
+- **Email:** [gao.jing@wustl.edu](mailto:gao.jing@wustl.edu)
+- **LinkedIn:** [linkedin.com/in/jing-gao-lzdxn/](https://linkedin.com/in//)
+- **GitHub:** [github.com/LZDXN](https://github.com/)
 
 # Education
 
@@ -11,18 +21,8 @@
 Aug. 2023 - Expected 2025
 St. Louis, MO
 
-# Relevant Coursework
-
-- OO Programming
-- Program in C
-- Discrete Math
-- Data Structures & Algorithms
-- Machine Learning
-- Adversarial AI
 
 # Publication
-
-- Blair, J., & Gao, J., & Kishimoto, K. (2023). *Perceptions of Artificial Intelligence in College: A Case Study of Purdue University Liberal Arts Professors.* Purdue 2023 Spring Undergraduate Research Conference. [2023 Abstract Booklet (PDF)](https://www.purdue.edu/undergrad-research/conferences/spring/archive/documents/AbstractBooklet_Spring2023.pdf#page=455)
 - Guo, J., & Gao, J. (2022). *Comparison of Different Machine Learning Algorithms on Cell Classification with scRNA-seq after Principal Component Analysis.* 2022 7th International Conference on Intelligent Computing and Signal Processing (ICSP). [DOI](https://doi.org/10.1109/icsp54964.2022.9778439)
 
 # Experience
@@ -63,11 +63,3 @@ Apr. 2023
 - **Developer Tools:** VS Code, Git, Latex, Markdown, Google Cloud Platform, Amazon Web Service
 - **Technologies/Frameworks:** Linux, GitHub, ReactJS, VueJS, WordPress
 - **Speak Languages:** Chinese (Native), English (Proficient), Esperanto (Intermediate), Japanese (Beginner)
-
-# Leadership / Extracurricular
-
-- **IEEE -- Purdue Aerial Robotic Team (PART)**
-Aug. 2022 - May 2023
-Purdue University
-- Trained and applied an object detection model to accurately identify ground targets for competitive scenarios.
-- Optimized the model's performance and deployed it on edge computing devices.
