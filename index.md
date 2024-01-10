@@ -9,7 +9,7 @@ title: LZDXN - Jing Gao
 
 {% include figure.html image="/assets/img/profile_photo.jpg" caption="" width="400" %}
 
-{% include button.html text="Email" icon="email" link="mailto:gao.jing@wustl.edu" color="#71C4EF" %} {% include button.html text="GitHub" icon="github" link="https://github.com/LZDXN" color="#24292F" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://linkedin.com/in/jing-gao-lzdxn/" color="#0A66C2" %} {% include button.html text="Résumé" icon="" link="/assets/doc/Jing_Gao_s_Resume__2024_01_09.pdf" color="#138A07" %}
+{% include button.html text="Email" icon="email" link="mailto:gao.jing@wustl.edu" color="#71C4EF" %} {% include button.html text="GitHub" icon="github" link="https://github.com/LZDXN" color="#24292F" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://linkedin.com/in/jing-gao-lzdxn/" color="#0A66C2" %} {% include button.html text="Résumé" icon="link" link="/assets/doc/Jing_Gao_s_Resume__2024_01_09.pdf" color="#138A07" %}
 
 ## Education
 **Washington University in St. Louis**
