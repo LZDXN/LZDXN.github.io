@@ -12,16 +12,17 @@ title: LZDXN - Jing Gao
 {% include button.html text="Email" icon="email" link="mailto:gao.jing@wustl.edu" color="#71C4EF" %} {% include button.html text="GitHub" icon="github" link="https://github.com/LZDXN" color="#24292F" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://linkedin.com/in/jing-gao-lzdxn/" color="#0A66C2" %} {% include button.html text="Résumé" icon="link" link="/assets/doc/Jing_Gao_s_Resume__2024_01_09.pdf" color="#138A07" %}
 
 ## Education
-**Washington University in St. Louis**
-*B.S. in Computer Science, double major in Entrepreneurship, minor in Mathematics*
+#### Washington University in St. Louis
+*B.S in* **Computer Science (Primary)**
+*Double major in **Entrepreneurship***
+*Minor in **Mathematics***
 Aug. 2023 - Expected 2025
-St. Louis, MO
 
 ## Technical Skills
 - **Programming Languages:** Python, Julia, Java, C, HTML/CSS, JavaScript, Shell
 - **Developer Tools:** VS Code, Git, Latex, Markdown, Google Cloud Platform, Amazon Web Service
 - **Technologies/Frameworks:** Linux, GitHub, ReactJS, VueJS, WordPress
-- **Languages:** Chinese (Native), English (Proficient), Esperanto (Intermediate), Japanese (Beginner)
+- **Languages:** 中文/Chinese (Native), English (Proficient), Esperanton/Esperanto (Intermediate), 日本語/Japanese (Beginner)
 
 ## Certification
 - [Large Language Models: Application through Production](https://courses.edx.org/certificates/8b772337ef45471eb1ba8a4f83cf43e4) - Databricks (edX), 2023
@@ -41,16 +42,17 @@ Jun. 2022 - Aug. 2022, Guangzhou, Guangdong (China)
 - Sampled & analyzed data, then Specified & optimized mathematical models.
 
 ## Publication
-- Guo, J., & Gao, J. (2022). *Comparison of Different Machine Learning Algorithms on Cell Classification with scRNA-seq after Principal Component Analysis*. 2022 7th International Conference on Intelligent Computing and Signal Processing (ICSP). [DOI](https://doi.org/10.1109/icsp54964.2022.9778439)
+[same contribution]
+Guo, J., & **Gao, J. (2022)**. *Comparison of Different Machine Learning Algorithms on Cell Classification with scRNA-seq after Principal Component Analysis*. 2022 7th International Conference on Intelligent Computing and Signal Processing (ICSP). [DOI](https://doi.org/10.1109/icsp54964.2022.9778439)
 
 ## Research & Projects
-- **AI Jailbreaking**
+### AI Jailbreaking
 *Large Language Model, Jailbreak*
 Dec. 2023
 Conducted comprehensive research into the mechanisms and limitations of large language models.
 
-- **Saga: AI-Powered Writing Assistant**
-*ReactJS, TypeScript, Large Language Model*
+### [Stockfish Chess Analysis](https://github.com/LZDXN/Chess-Research-2023-Fall.git)
+*Julia, Python, API, Data Analysis*
 Apr. 2023
 Developed an AI-powered assistant to solve pain points in the writing process.
 
