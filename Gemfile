@@ -17,7 +17,8 @@ gem "jekyll", "~> 4.1"
 # # If you're using the MathJax math engine instead, free to remove the line below:
 # gem "kramdown-math-katex"
 
-gem "alembic-jekyll-theme"
+# gem "alembic-jekyll-theme"
+gem "jekyll-remote-theme"
 gem "jekyll-sitemap"
 gem "jekyll-mentions"
 gem "jekyll-paginate"
