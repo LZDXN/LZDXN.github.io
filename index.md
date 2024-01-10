@@ -3,16 +3,15 @@ title: LZDXN
 feature_text: |
   ## LZDXN - Jing Gao
   An undergraduate student at Washington University in St. Louis, majoring in Computer Science and Entrepreneurship.
-feature_image: "https://sites.wustl.edu/olinmc/files/2023/10/flyer_image_429596_linkedin_bannerswithcentennial_823145622_823145622.jpg.jpeg"
+# feature_image: "https://sites.wustl.edu/olinmc/files/2023/10/flyer_image_429596_linkedin_bannerswithcentennial_823145622_823145622.jpg.jpeg"
 # excerpt: ""
 ---
 
+{% include figure.html image="/assets/img/profile_photo.jpg" caption="CCG Profile" %}
 
-![Profile Photo](/assets/img/profile_photo.jpg)
-
-- **Email:** [gao.jing@wustl.edu](mailto:gao.jing@wustl.edu)
-- **LinkedIn:** [linkedin.com/in/jing-gao-lzdxn/](https://linkedin.com/in//)
-- **GitHub:** [github.com/LZDXN](https://github.com/)
+{% include button.html text="GitHub" icon="github" link="https://github.com/LZDXN" color="#24292F" %}
+{% include button.html text="LinkedIn" icon="linkedin" link="https://linkedin.com/in/jing-gao-lzdxn/" color="#0A66C2" %}
+{% include button.html text="Email" icon="email" link="mailto:gao.jing@wustl.edu" color="#71c4ef" %}
 
 # Education
 
