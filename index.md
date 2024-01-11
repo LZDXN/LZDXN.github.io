@@ -9,7 +9,7 @@ title: LZDXN - Jing Gao
 
 {% include figure.html image="/assets/img/profile_photo.jpg" caption="" width="400" %}
 
-{% include button.html text="Email" icon="email" link="mailto:gao.jing@wustl.edu" color="#71C4EF" %} {% include button.html text="GitHub" icon="github" link="https://github.com/LZDXN" color="#24292F" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://linkedin.com/in/jing-gao-lzdxn/" color="#0A66C2" %} {% include button.html text="Résumé" icon="link" link="/assets/doc/Jing_Gao_s_Resume__2024_01_09.pdf" color="#138A07" %}
+{% include button.html text="Email" icon="email" link="mailto:gao.jing@wustl.edu" color="#71C4EF" %} {% include button.html text="GitHub" icon="github" link="https://github.com/LZDXN" color="#24292F" %} {% include button.html text="LinkedIn" icon="linkedin" link="https://linkedin.com/in/jing-gao-lzdxn/" color="#0A66C2" %} {% include button.html text="Résumé" icon="link" link="/assets/doc/Jing_Gao_s_Resume.pdf" color="#138A07" %}
 
 ## Education
 #### Washington University in St. Louis
@@ -25,6 +25,7 @@ Aug. 2023 - Expected 2025
 - **Languages:** 中文/Chinese (Native), English (Proficient), Esperanton/Esperanto (Intermediate), 日本語/Japanese (Beginner)
 
 ## Certification
+- [Large Language Models: Foundation Models from the Ground Up](https://courses.edx.org/certificates/43a44d655fb0498dbb222278e10d22c5) - Databricks (edX), 2023
 - [Large Language Models: Application through Production](https://courses.edx.org/certificates/8b772337ef45471eb1ba8a4f83cf43e4) - Databricks (edX), 2023
 - [Mathematics for Machine Learning: Linear Algebra](https://coursera.org/share/e487b03b99dbdee21e67be90fef4c88b) - ICL (Coursera), 2022
 
