@@ -1,13 +1,13 @@
 ---
-# layout: page
+layout: default
 title: Ongoing
 feature_text: |
 Current Plan
 feature_image: "/assets/img/Current_project_page.png"
-aside: true
+# aside: true
 ---
 
-# Spring 2024
+# 2024
 ## January
 ### [Starts from mid-January]
 - Networking Bootcamp
