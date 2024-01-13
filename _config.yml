@@ -68,8 +68,9 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
-    feature_text:
+    description: "Life logs as time goes on" # The post list page content
+    feature_text: |
+      # Timeline
     feature_image: "https://wallpapers.com/images/hd/white-solid-background-pumtn8lreyutu2ru.jpg"
 
 # 6. Jekyll collections settings
@@ -94,7 +95,7 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-lang: en-GB # Set the site language
+lang: en-US # Set the site language
 title: "LZDXN" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/b.png" # Site logo, also used in jekyll-seo-tag
 description: "" # Site description and default description, also used in jekyll-seo-tag
@@ -137,7 +138,7 @@ navigation_header:
   url: /search/
 
 navigation_footer:
-- title: Created by Jing Gao
+- title: By LZDXN
   url: https://LZDXN.github.io/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
