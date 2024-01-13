@@ -12,7 +12,7 @@ feature_image: "/assets/img/Current_project_page.png"
 - CambioML (Part-time Internship)
 - CSE 400E (Individual Project)
 - CSE 555T (Project for startups)
-- MGT 477E (Te am member ML/backends)
+- MGT 477E (Team member ML/backends)
 
 ### [Ending at late-January]
 - Networking Bootcamp
