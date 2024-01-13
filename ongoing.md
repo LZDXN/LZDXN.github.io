@@ -1,13 +1,13 @@
 ---
 title: Ongoing
-feature_text: |
-  ## Ongoing
+# feature_text: |
+#   ## Ongoing
 feature_image: "/assets/img/Current_project_page.png"
 # excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
 
-# Spring 2024
+# 2024
 ## January
 ### [Starts from mid-January]
 - Networking Bootcamp
@@ -21,5 +21,10 @@ feature_image: "/assets/img/Current_project_page.png"
 - Chess Research (Part-time paid work)
 
 ### [Starts from late-January]
-- [Fundamentals of Statistics](https://www.edx.org/learn/statistics/massachusetts-institute-of-technology-fundamentals-of-statistics) [**(MIT Micromaster)**](https://www.edx.org/masters/micromasters/mitx-statistics-and-data-science-general-track)
-- [Probability - The Science of Uncertainty and Data](https://www.edx.org/learn/probability/massachusetts-institute-of-technology-probability-the-science-of-uncertainty-and-data) [**(MIT Micromaster)**](https://www.edx.org/masters/micromasters/mitx-statistics-and-data-science-general-track)
+[**(MIT Micromaster)**](https://www.edx.org/masters/micromasters/mitx-statistics-and-data-science-general-track)
+- [Fundamentals of Statistics](https://www.edx.org/learn/statistics/massachusetts-institute-of-technology-fundamentals-of-statistics)
+- [Probability - The Science of Uncertainty and Data](https://www.edx.org/learn/probability/massachusetts-institute-of-technology-probability-the-science-of-uncertainty-and-data) 
+
+
+# 2023
+## December

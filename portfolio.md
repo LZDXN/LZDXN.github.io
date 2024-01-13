@@ -1,6 +1,5 @@
 ---
-title: Categories
+title: Protfolio
 layout: categories
-excerpt: "Category index"
 aside: true
 ---

@@ -40,7 +40,7 @@ plugins:
 # theme: alembic-jekyll-theme
 remote_theme: daviddarnes/alembic@main
 
-paginate: 2 # jekyll-paginate > items per page
+paginate: 3 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 # jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 # twitter:
@@ -69,8 +69,8 @@ collections:
     title: Posts # Needed for Siteleaf
     output: true
     description: "My thoughts and ideas" # The post list page content
-    # feature_text:
-    # feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_text:
+    feature_image: "https://wallpapers.com/images/hd/white-solid-background-pumtn8lreyutu2ru.jpg"
 
 # 6. Jekyll collections settings
 defaults:
@@ -129,10 +129,10 @@ navigation_header:
   # url: /principles/
 - title: Current Project
   url: /ongoing/
-# - title: Blog
-#   url: /blog/
-# - title: Portfolio
-  # url: /portfolio/
+- title: Timeline
+  url: /blog/
+- title: Portfolio
+  url: /portfolio/
 - title: Search
   url: /search/
 
