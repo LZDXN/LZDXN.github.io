@@ -1,13 +1,13 @@
 ---
-layout: default
 title: Ongoing
 feature_text: |
-Current Plan
+  ## Current Plan
 feature_image: "/assets/img/Current_project_page.png"
-# aside: true
+# excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
-# 2024
+
+# Spring 2024
 ## January
 ### [Starts from mid-January]
 - Networking Bootcamp
