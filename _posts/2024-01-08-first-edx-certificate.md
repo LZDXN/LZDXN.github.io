@@ -9,7 +9,7 @@ excerpt: Facts have proved that you cannot set up flags randomly. If you set up 
 I have always used cousera for free.
 I’ve been fishing too much these days and I’m thinking of doing something during the holidays.
 
-![[_posts/attachments/LLM101 Certificate.jpeg]]
+{% include figure.html image="_posts/attachments/LLM101_Certificate.jpeg" caption="" width="400" %}
 
 This course is mainly to learn about the API of Hugging Face. I have always wanted to read the doc and the result has been delayed, so I went through the doc for the reason of getting a certificate.!
 
@@ -20,10 +20,11 @@ At least 24 years have made a good start
 
 
 1 + 1 = 3(?)
-![[LLM102 Certificate.jpeg]]
+{% include figure.html image="_posts/attachments/LLM102_Certificate.jpeg" caption="" width="400" %}
+
 This extra certificate is Professional Certification. Two certifications must be completed at the same time to get a professional certificate (usually more than two courses)
 
-![[LLM by databrick Certificate.jpeg]]
+{% include figure.html image="_posts/attachments/LLM_by_databrick_Certificate.jpeg" caption="" width="400" %}
 
 Facts have proved that you cannot set up flags randomly. If you set up a flag, you must give a reason that makes it difficult to remove the flag.
 
