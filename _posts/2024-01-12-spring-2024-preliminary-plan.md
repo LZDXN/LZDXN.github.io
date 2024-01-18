@@ -3,10 +3,10 @@ Last Update: on Jan. 12, 2024
 ## January
 ### [Starts from mid-January]
 - Networking Bootcamp
-- CambioML (Part-time Internship)
+- CambioML (Part-time Contributor)
 - CSE 400E (Individual Project)
-- CSE 555T (Project for startups)
 - MGT 477E (Team member ML/backends)
+- CSE 555T (Project for startups)
 
 ### [Ending at late-January]
 - Networking Bootcamp

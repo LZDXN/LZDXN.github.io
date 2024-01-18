@@ -1,6 +1,5 @@
 ---
 title: Jing Gao
-aside: true
 ---
 # LZDXN - Jing Gao
 {% include figure.html image="/assets/img/profile_photo.jpg" caption="" width="400" %}
