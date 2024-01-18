@@ -1,5 +1,5 @@
 ---
-title: Protfolio
+title: Portfolio
 layout: categories
 aside: true
 ---
