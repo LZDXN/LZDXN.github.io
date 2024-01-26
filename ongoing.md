@@ -7,14 +7,13 @@ feature_image: "/assets/img/Current_project_page.png"
 ---
 # 2024
 ## January
-### [ Starts from mid-January]
+### [Starts from mid-January]
 - Networking Bootcamp
-- CambioML (Part-time Internship)
-- CSE 400E (Individual Project)
-- CSE 555T (Project for startups)
+- CambioML (Part-time Contributor)
+- CSE 400E (Independent Study Project)
+- CSE 555T (Machine Learning Model Project for WrapperAI Startup)
+- CSE 561A (Large Language Model Project)
 - MGT 477E (Team member ML/backends)
-
-<!-- 
 ### [Ending at late-January]
 - Networking Bootcamp
 - Chess Research (Part-time paid work)
@@ -22,4 +21,4 @@ feature_image: "/assets/img/Current_project_page.png"
 [**(MIT Micromaster)**](https://www.edx.org/masters/micromasters/mitx-statistics-and-data-science-general-track)
 - [Fundamentals of Statistics](https://www.edx.org/learn/statistics/massachusetts-institute-of-technology-fundamentals-of-statistics)
 - [Probability - The Science of Uncertainty and Data](https://www.edx.org/learn/probability/massachusetts-institute-of-technology-probability-the-science-of-uncertainty-and-data) 
- -->
+
