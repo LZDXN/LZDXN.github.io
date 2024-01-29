@@ -4,7 +4,7 @@ title: Jing Gao
 # LZDXN - Jing Gao
 {% include figure.html image="/assets/img/profile_photo.jpg" caption="" width="400" %}
 
-{% include button.html text="Email" icon="email" link="mailto:gao.jing@wustl.edu" color="#71C4EF" %} {% include button.html text="GitHub" icon="github" link="https://github.com/LZDXN" color="#24292F" %} {% include button.html text="Linked" icon="linkedin" link="https://linkedin.com/in/jing-gao-lzdxn/" color="#0A66C2" %}
+{% include button.html text="Email" icon="email" link="mailto:lztd@lzdxn.org" color="#71C4EF" %} {% include button.html text="GitHub" icon="github" link="https://github.com/LZDXN" color="#24292F" %} {% include button.html text="Linked" icon="linkedin" link="https://linkedin.com/in/jing-gao-lzdxn/" color="#0A66C2" %}
 {% include button.html text="Résumé (EN)" icon="link" link="/assets/doc/Jing_Gao_s_Resume.pdf" color="#138A07" %} {% include button.html text="简历 (中文)" icon="link" link="/assets/doc/Jing_Gao_s_Resume_CN.pdf" color="#1B222C" %}
 
 At the heart of my academic pursuits at Washington University in St. Louis, where I am majoring in Computer Science and Entrepreneurship, lies a deep-rooted passion for technology and innovation. My journey is not just about building a robust technical foundation in programming and data analysis but also about weaving these skills into the fabric of my personal interests and aspirations.
