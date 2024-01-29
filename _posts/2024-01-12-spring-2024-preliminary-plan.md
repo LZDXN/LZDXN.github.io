@@ -1,5 +1,9 @@
+---
+title: Spring 2024 Preliminary Plan
+---
+
 # 2024
-Last Update: on Jan. 12, 2024
+Last Update: on Jan. 29, 2024
 ## January
 ### [Starts from mid-January]
 - Networking Bootcamp
