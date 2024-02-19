@@ -12,7 +12,7 @@ Hi all, Jing here. I am a second-year undergraduate student at Washington Univer
 
 Currently, I am working at [CambioML](https://www.cambioml.com/), a startup company supported by [Y Combinator](https://www.ycombinator.com/) (S23). 
 
-Additionally, I am developing my own startup idea called WrapperAI, an AI-driven privacy filter. Further information will be released soon.
+Additionally, I am developing my own startup idea called [WrapperAI](https://wrapperai.org/), an AI-driven privacy filter. Further information can be found on [WrapperAI.org](https://wrapperai.org/).
 
 <!-- I am advancing this idea with [Professor Vorobeychik](https://vorobeychik.com/), backed by Washington University in St. Louis and Vanderbilt University. -->
 
