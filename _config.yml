@@ -99,10 +99,10 @@ lang: en-US # Set the site language
 title: "LZDXN" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/b.png" # Site logo, also used in jekyll-seo-tag
 description: "" # Site description and default description, also used in jekyll-seo-tag
-url: "https://LZDXN.github.io/" # Site url, also used in jekyll-seo-tag
+url: "https://lzdxn.org" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/LZDXN/LZDXN.github.io/"
-email: "gao.jing@wustl.edu"
+email: "lztd@lzdxn.org"
 # disqus: "LZDXN-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 google_analytics: "G-S1DKQ153K2"
@@ -132,8 +132,10 @@ navigation_header:
   url: /ongoing/
 - title: Timeline
   url: /blog/
-- title: Portfolio
-  url: /portfolio/
+- title: Log
+  url: /log/
+# - title: Publication
+  # url: /publication/
 - title: Search
   url: /search/
 
