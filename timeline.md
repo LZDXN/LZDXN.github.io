@@ -1,14 +1,13 @@
 ---
-title: Ongoing
+title: Timeline
 # feature_text: |
-#   ## Ongoing
 feature_image: "/assets/img/Current_project_page.png"
-# excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Life logs as time goes on"
 ---
 
 ## 2024
 
-Last Update: on Apr. 4, 2024
+Last Update: on Apr. 5, 2024
 
 ### Present
 

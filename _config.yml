@@ -128,10 +128,9 @@ navigation_header:
   url: /
 # - title: Principles
   # url: /principles/
-- title: Current Project
-  url: /ongoing/
 - title: Timeline
   url: /blog/
+  # url: /blog/
 - title: Log
   url: /log/
 # - title: Publication

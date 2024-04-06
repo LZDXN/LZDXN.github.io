@@ -1,5 +1,5 @@
 ---
 title: Life Logs
 layout: categories
-aside: true
+# aside: true
 ---
