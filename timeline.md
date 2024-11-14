@@ -7,15 +7,30 @@ excerpt: "Life logs as time goes on"
 
 ## 2024
 
-Last Update: on Apr. 5, 2024
+Last Update: on Nov. 14, 2024
 
 ### Present
+- [WrapperAI Start Up](https://wrapperai.org/) (Prototype -> Early Market)
 
-- [WrapperAI Start Up](https://wrapperai.org/) (Idea -> Prototype)
+### November
+- [GENAI SUMMIT Silicon Valley 2024](https://genaisummit.ai/) Participant
+- One of the 2 selected [security scholar class of 2025](https://www.rsaconference.com/rsac-programs/security-scholar) representing WashU at the [RSA Conference](https://www.rsaconference.com/)
 
-#### [Ending at late-April]
+### October
+- WrapperAI - Skandalaris Venture Competition Semi-Finalist (Second Time)
 
-- Chess Research (Part-time paid work)
+### June ~ August
+- WrapperAI - WashU LaunchPad Program
+
+### May
+- WrapperAI - StartUp World Cup 2024 Semi-Finalist (Top 10 in Data Track at St. Louis Regional)
+
+### April
+
+- WrapperAI - Third Place in STLREE
+
+### February
+- WrapperAI - Skandalaris Venture Competition Semi-Finalist
 
 ### January
 
