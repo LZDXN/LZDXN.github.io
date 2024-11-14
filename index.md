@@ -13,11 +13,7 @@ title: Jing Gao
 
 Hi all, Jing here, the founder and CEO of WrapperAI, also a Computer Science and Entrepreneurship double major student at Washington University in St. Louis.
 
-<!-- Currently, I am working at [CambioML](https://www.cambioml.com/), a startup company supported by [Y Combinator](https://www.ycombinator.com/) (S23).  -->
-
 I am developing my own startup idea called [WrapperAI](https://wrapperai.org/), an business local data sanitizer. Further information can be found on [WrapperAI.org](https://wrapperai.org/).
-
-<!-- I am advancing this idea with [Professor Vorobeychik](https://vorobeychik.com/), backed by Washington University in St. Louis and Vanderbilt University. -->
 
 ## About Me
 
@@ -33,7 +29,7 @@ WrapperAI originated from a lab project under the guidance of [Yevgeniy Vorobeyc
 
 Due to the unique features of WrapperAI, I am facing significant technical challenges throughout this journey. I am grateful that Prof. Eugene has been so supportive, nominating me for the dean's selection to WashU's Ph.D. program to work directly in his lab on the startup WrapperAI and to address these challenges through research.
 
-{% include figure.html image="/assets/img/HackDartmouth.jpg" caption="" width="400" %}
+<!-- {% include figure.html image="/assets/img/HackDartmouth.jpg" caption="" width="400" %} -->
 
 Outside the realms of academia, I find solace and excitement in writing. As a budding novelist, I am currently working on a fantasy novel in Chinese, with over 20,000 words already penned down. This creative endeavor reflects not only my love for storytelling but also my keen interest in exploring new-world settings and intricate plot developments. However, the challenges of maintaining consistency and integrating new ideas into an evolving storyline led me to conceive the idea for a saga - a project that triumphed at the HackDartmouth event, winning three awards including the prestigious Contrary Capital sponsored prize. This recognition is not just a testament to the project's innovation but also a stepping stone in my journey as an entrepreneur.
 
