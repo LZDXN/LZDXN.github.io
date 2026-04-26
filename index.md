@@ -6,14 +6,11 @@ title: Jing Gao
 
 {% include figure.html image="/assets/img/profile_photo.jpg" caption="" width="400" %}
 
-{% include button.html text="Email" icon="email" link="mailto:lztd@lzdxn.org" color="#71C4EF" %} {% include button.html text="GitHub" icon="github" link="https://github.com/LZDXN" color="#24292F" %} {% include button.html text="Linked" icon="linkedin" link="https://linkedin.com/in/jing-gao-lzdxn/" color="#0A66C2" %} {% include button.html text="Résumé (EN)" icon="link" link="/assets/doc/Jing_Gao_s_Resume.pdf" color="#138A07" %} 
-<!-- {% include button.html text="简历 (中文)" icon="link" link="/assets/doc/Jing_Gao_s_Resume_CN.pdf" color="#1B222C" %} -->
+{% include button.html text="Email" icon="email" link="mailto:lztd@lzdxn.org" color="#71C4EF" %} {% include button.html text="GitHub" icon="github" link="https://github.com/LZDXN" color="#24292F" %} {% include button.html text="Linked" icon="linkedin" link="https://linkedin.com/in/jing-gao-lzdxn/" color="#0A66C2" %}
 
 ## TL;DR
 
-Hi all, Jing here, the founder and CEO of WrapperAI, also a Computer Science and Entrepreneurship double major student at Washington University in St. Louis.
-
-I am developing my own startup idea called [WrapperAI](https://wrapperai.org/), an business local data sanitizer. Further information can be found on [WrapperAI.org](https://wrapperai.org/).
+Hi all, Jing here, a Computer Science and Entrepreneurship double major student at Washington University in St. Louis.
 
 ## About Me
 
@@ -24,10 +21,6 @@ At the heart of my academic pursuits at Washington University in St. Louis, wher
 When I was in high school, I worked with a team to deploy a website for an event. Right before the event, our website was hacked; everything was blocked except for a message left by the hacker: "Send me Bitcoin to unlock your website."
 
 A ransom of Bitcoin valued at 400k was demanded for this small event. What if it happened to a larger-scale group -- or to businesses? This experience constantly reminded me of the importance of privacy and has kept motivating me to protect it.
-
-WrapperAI originated from a lab project under the guidance of [Yevgeniy Vorobeychik](https://vorobeychik.com/) (Eugene). It was initially an anti-jailbreaking solution for a business hosting an LLM. However, during our discussions, Prof. Eugene mentioned, "Well you know, not many businesses in life notice or care about others jailbreaking their model in general, but they do concern themselves with privacy." This statement greatly inspired me to pivot my idea, and following this insight, I've interviewed and had coffee chats with 30 people from target industries in occupation and business development. This has shaped what I have today, and the number is continuously growing.
-
-Due to the unique features of WrapperAI, I am facing significant technical challenges throughout this journey. I am grateful that Prof. Eugene has been so supportive, nominating me for the dean's selection to WashU's Ph.D. program to work directly in his lab on the startup WrapperAI and to address these challenges through research.
 
 <!-- {% include figure.html image="/assets/img/HackDartmouth.jpg" caption="" width="400" %} -->
 
